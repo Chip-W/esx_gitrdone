@@ -37,7 +37,7 @@ Config.GitrdoneStations = {
 
 		Vehicles = {
 			{
-				Spawner = vector3(1201.6, 1822.7, 79.1),
+				Spawner = vector3(1209.6, 1826.2, 79.2),
 				InsideShop = vector3(1245.5, 1817.1, 80.8),
 				SpawnPoints = {
 					{ coords = vector3(1207.8, 1814.3, 78.3), heading = 28.0, radius = 6.0 },
