@@ -115,7 +115,7 @@ Locales['en'] = {
   ['police_stock']                  = 'police Stock',
 
   --Invoices
-  ['gitrdone']                      = 'Git\'r Done Construction'
+  ['gitrdone']                      = 'Git\'r Done Construction',
   ['billing']                       = 'Create Invoice',
   ['invoice_amount']               = 'amount To Charge Customer',
 
