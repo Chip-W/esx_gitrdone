@@ -25,8 +25,9 @@ ESX_GITRDONE is an RP construciton job built based on the latest (as of this bui
 ### Requirements
 * Auto mode
   * [esx_billing](https://github.com/FXServer-ESX/fxserver-esx_billing)
+  * [esx_service](https://github.com/ESX-Org/esx_service)
 
-* Player management (boss actions and armory with buyable weapons)
+* Player management (boss actions)
   * [esx_society](https://github.com/FXServer-ESX/fxserver-esx_society)
   * [esx_datastore](https://github.com/FXServer-ESX/fxserver-esx_datastore)
 
